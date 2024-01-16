@@ -1,39 +1,99 @@
 .title-block {
-    left: 72.63px; 
-    top: 2px; 
+    left: 72.63px;
+    top: 2px;
     position: absolute;
-    
+    text-align: center;
+
 }
 
 .hero-style {
-    color: #131318; 
-    font-size: 36px; 
-    font-family: Mulish; 
-    font-weight: 800; 
+    color: #131318;
+    font-size: 36px;
+    font-family: Mulish;
+    font-weight: 800;
     word-wrap: break-word;
 }
 
 .travel-style {
 
-    color: #FF5400; 
-    font-size: 36px; 
-    font-family: Mulish; 
-    font-weight: 800; 
+    color: #FF5400;
+    font-size: 36px;
+    font-family: Mulish;
+    font-weight: 800;
     word-wrap: break-word;
 }
 
 .nav-part {
-    text-align: center; 
-    color: #FF5400; 
-    font-size: 18px; 
-    font-family: Mulish; 
-    font-weight: 700; 
+    text-align: center;
+    color: #FF5400;
+    font-size: 18px;
+    font-family: Mulish;
+    font-weight: 700;
     word-wrap: break-word;
 }
 
 nav {
-   display: inline;
-   margin-top: 200px;
-   
-  }
+    display: inline;
+    margin-top: 200px;
+    text-align: center;
+    
 
+}
+
+
+.container-one {
+    width: 1170px;
+    height: 500px;
+    left: 35px;
+    top: 146px;
+    position: absolute;
+    text-align: center;
+    color: white;
+    
+}
+
+.container-one img {
+    width: 1170px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    
+    border-radius: 16px;
+}
+
+/* .container-one input {
+
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            inline-size: auto;
+} */
+
+
+.input-row {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-box {
+    margin: 0 10px;
+    padding: 10px;
+}
+
+.submit-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
