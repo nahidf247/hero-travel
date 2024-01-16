@@ -41,7 +41,7 @@ nav {
 }
 
 
-.container-one {
+.container-one, .container-two {
     width: 1170px;
     height: 500px;
     left: 35px;
@@ -61,18 +61,6 @@ nav {
     
     border-radius: 16px;
 }
-
-/* .container-one input {
-
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            inline-size: auto;
-} */
 
 
 .input-row {
@@ -97,3 +85,20 @@ nav {
     border: none;
     cursor: pointer;
 }
+
+.container-two {
+    margin-top: 500px;
+    color: black;
+    text-align: left;
+    
+}
+
+.container-two img {
+    width: auto;
+    height: auto;
+    right: 0px;
+    top: 0px;
+    position: absolute;
+    border-radius: 16px;
+}
+
