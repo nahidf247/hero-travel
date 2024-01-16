@@ -30,15 +30,11 @@
     font-family: Mulish;
     font-weight: 700;
     word-wrap: break-word;
+    padding: 7%;
+    margin: 0px 0px -90px 50px;
 }
 
-nav {
-    display: inline;
-    margin-top: 200px;
-    text-align: center;
-    
 
-}
 
 
 .container-one, .container-two {
