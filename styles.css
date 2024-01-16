@@ -1,0 +1,23 @@
+.title-block {
+    left: 72.63px; 
+    top: 2px; 
+    position: absolute;
+    
+}
+
+.hero-style {
+    color: #131318; 
+    font-size: 36px; 
+    font-family: Mulish; 
+    font-weight: 800; 
+    word-wrap: break-word;
+}
+
+.travel-style {
+
+    color: #FF5400; 
+    font-size: 36px; 
+    font-family: Mulish; 
+    font-weight: 800; 
+    word-wrap: break-word;
+}
