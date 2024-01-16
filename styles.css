@@ -21,3 +21,19 @@
     font-weight: 800; 
     word-wrap: break-word;
 }
+
+.nav-part {
+    text-align: center; 
+    color: #FF5400; 
+    font-size: 18px; 
+    font-family: Mulish; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+
+nav {
+   display: inline;
+   margin-top: 200px;
+   
+  }
+
